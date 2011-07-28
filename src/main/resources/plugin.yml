@@ -1,0 +1,9 @@
+name: ResurrectionSickness
+main: com.seriousminecraft.ResurrectionSickness.Plugin
+version: 1.0
+authors:
+    - Kitteh
+commands:
+    pss:
+        description: Create a new sign representing a players status
+        usage: /pss playername

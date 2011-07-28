@@ -1,0 +1,9 @@
+Info:
+    Version: 1.0
+Settings:
+    Penalty : true
+    PenaltyTime : 60
+    RessurectionSickness: true
+    DeathCountForSick: 3
+    HealthOnSick: 6
+    SickReset: 600

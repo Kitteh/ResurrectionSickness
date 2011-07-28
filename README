@@ -1,0 +1,18 @@
+Minecraft CraftBukkit Plugin
+
+Version: 1.1
+Bukkit Build: 770
+CraftBukkit Build: 1000
+
+Author Kitteh
+
+This plugin offers a fix to 2 PVP issues raised by m5k
+
+-> A Player can return multiple times to battle after dying
+-> There is not enough punishment when a Player dies
+
+It offers to fix these issues by
+
+-> Allowing admins to set a soft limit on dying, after you exceed this limit you will be punished by respawning with less health
+
+-> Create a time limit after a Player dies they will have to wait x seconds before being able to attack another player.
